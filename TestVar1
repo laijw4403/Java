@@ -1,0 +1,6 @@
+class TestVar1{
+    public static void main(String[] args){
+        int i=1234567890;
+        System.out.println(i);
+    }
+}
