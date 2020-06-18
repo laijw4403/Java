@@ -1,4 +1,5 @@
 /* 
+   此解為小弟所寫
    題目:Credit Card Mask 
    出自:codewars.com
    Usually when you buy something, you're asked whether your credit card number, 
