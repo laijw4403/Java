@@ -22,7 +22,7 @@ class StringReplace_1{
     System.out.println("Input String : "+str);
     System.out.println("String's length : "+length);
     /*
-      substring(beginindex,endindex)
+      substring(beginindex,endindex) 存取索引值beginIdex到endIndex-1之字串
       beginindex 開始之索引值(包含);
       endindex 結尾之索引值(不包含);
     */
